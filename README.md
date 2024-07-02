@@ -7,5 +7,5 @@
 
 -Challenge 3: Neural Networks
 
-XGboost algorithm
+-XGboost algorithm
 
